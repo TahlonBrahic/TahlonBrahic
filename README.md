@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TahlonBrahic
 - 👀 I’m interested in music, learning languages, and programming!
-- 🌱 I’m currently learning ReactJS.
-- 💞️ I’m looking to collaborate on anything!
+- 🌱 I’m currently learning React.
 - 📫 How to reach me: tahlonbrahic@gmail.com
 
 <!---
