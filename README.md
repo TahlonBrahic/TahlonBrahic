@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TahlonBrahic
+- 👋 Hi, I’m **@TahlonBrahic**
 - 👀 I’m interested in music, learning languages, and programming!
 - 🌱 I’m currently learning React.
 - 📫 How to reach me: tahlonbrahic@gmail.com
