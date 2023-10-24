@@ -1,4 +1,4 @@
 - 👋 Hi, I’m **@TahlonBrahic**
 - 👀 I’m interested in music, learning languages, and programming! I am currently learning Japanese and Portuguese but have also spent some time studying Spanish, French, Chinese, and Czech. I also am a jazz pianist with a deep love for Blue Note records.
 - 📊 I’m currently pursuing my masters degree in Data Science. I hope to contribute to increased data literacy in lower income communities.
-- 📫 How to reach me: You can visit [my website](tahlonbrahic.com) to see some of my work in a more user friendly format or email me directly at tahlonbrahic@gmail.com 
+- 📫 How to reach me: You can visit [my website](https://tahlonbrahic.com/) to see some of my work in a more user friendly format or email me directly at tahlonbrahic@gmail.com 
