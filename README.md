@@ -28,7 +28,7 @@
 
 ![Tahlons's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahlonBrahic&show_icons=true&theme=gruvbox)
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=TahlonBrahic&theme=dark)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=TahlonBrahic&theme=dark)](https://git.io/streak-stats)
 
 #
 ---
