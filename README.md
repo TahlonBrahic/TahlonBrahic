@@ -22,6 +22,15 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+#
+
+### 📊 Stats
+
+![Tahlons's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahlonBrahic&show_icons=true&theme=gruvbox)
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=TahlonBrahic&theme=dark)](https://git.io/streak-stats) -->
+
+#
 ---
 
 ### 📫 How to reach me: 
