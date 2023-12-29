@@ -1,8 +1,6 @@
 # 🎹 Tahlon Brahic
 
-** 'Data Scientist / Developer / Musician' **
-
----
+** Data Scientist / Developer / Musician **
 
 ### 🧰 Languages and Tools
 
@@ -24,6 +22,7 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+---
 
-
-📫 How to reach me: You can visit [my website](https://tahlonbrahic.com/) to see some of my work in a more user friendly format or email me directly at tahlonbrahic@gmail.com 
+### 📫 How to reach me: 
+You can visit [my website](https://tahlonbrahic.com/) to see some of my work in a more user friendly format or email me directly at tahlonbrahic@gmail.com 
