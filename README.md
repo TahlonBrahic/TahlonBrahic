@@ -29,7 +29,7 @@
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahlonBrahic)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahlonBrahic)](https://github.com/anuraghazra/github-readme-stats&hide=JupyterNotebooks)
 
 #
 ---
