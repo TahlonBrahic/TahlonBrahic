@@ -21,13 +21,16 @@
 
 ### 📊 Stats
 
-![Tahlons's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahlonBrahic&show_icons=true&theme=gruvbox)
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TahlonBrahic&show_icons=true&theme=gruvbox" />
+</a>
+<a>
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=TahlonBrahic&theme=dark" />
+</a>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahlonBrahic&hide=jupyter%20notebook&theme=gruvbox&langs_count=8" />
+</a>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TahlonBrahic&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahlonBrahic&hide=jupyter%20notebook&theme=gruvbox&langs_count=8)
-
-#
 ---
 
 ### 📫 How to reach me: 
