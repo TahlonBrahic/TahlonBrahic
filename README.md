@@ -44,8 +44,9 @@
 
 <!-- GIF -->
 <div align="center">
-  <iframe src="https://giphy.com/embed/bi6RQ5x3tqoSI" width="480" height="349" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
-  <p><a href="https://giphy.com/gifs/computer-cowboy-bebop-bi6RQ5x3tqoSI">via GIPHY</a></p>
+  <a>
+    ![](https://github.com/TahlonBrahic/TahlonBrahic/blob/main/coding_error.gif)
+  </a>
 </div>
 
 ---
