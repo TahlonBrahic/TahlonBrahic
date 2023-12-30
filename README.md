@@ -44,9 +44,9 @@
 
 <!-- GIF -->
 <div align="center">
-  <a>
-    ![](https://github.com/TahlonBrahic/TahlonBrahic/blob/main/coding_error.gif)
-  </a>
+   <p align="center">
+    <img src="https://github.com/TahlonBrahic/TahlonBrahic/blob/main/coding_error.gif" alt="GIF" />
+  </p>
 </div>
 
 ---
