@@ -39,7 +39,6 @@
   <p><a href="https://giphy.com/gifs/computer-cowboy-bebop-bi6RQ5x3tqoSI">via GIPHY</a></p>
 </div>
 
-
 ---
 
 ### 📫 How to reach me: 
