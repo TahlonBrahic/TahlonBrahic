@@ -28,9 +28,6 @@
   <a>
     <img height=200 src="https://streak-stats.demolab.com?user=TahlonBrahic&theme=dark" />
   </a>
-  <a>
-    <img height=200 src="https://streak-stats.demolab.com?user=TahlonBrahic&theme=dark" />
-  </a>
 </div>
 
 <!-- div for separation -->
@@ -38,7 +35,7 @@
 
 <div align="center">
   <a>
-    <img height=200 src="https://streak-stats.demolab.com?user=TahlonBrahic&theme=dark" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahlonBrahic&hide=jupyter%20notebook&theme=gruvbox&langs_count=8" />
   </a>
 </div>
 
