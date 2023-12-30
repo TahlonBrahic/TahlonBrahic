@@ -25,7 +25,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=TahlonBrahic&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahlonBrahic&hide=jupyter%20notebook&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahlonBrahic&hide=jupyter%20notebook&theme=gruvbox&langs_count=8)
 
 #
 ---
