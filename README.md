@@ -28,6 +28,18 @@
   <a>
     <img height=200 src="https://streak-stats.demolab.com?user=TahlonBrahic&theme=dark" />
   </a>
+  <a>
+    <img height=200 src="https://streak-stats.demolab.com?user=TahlonBrahic&theme=dark" />
+  </a>
+</div>
+
+<!-- div for separation -->
+<div style="margin: 20px;"></div>
+
+<div align="center">
+  <a>
+    <img height=200 src="https://streak-stats.demolab.com?user=TahlonBrahic&theme=dark" />
+  </a>
 </div>
 
 <!-- div for separation -->
