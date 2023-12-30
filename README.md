@@ -28,10 +28,17 @@
   <a>
     <img height=200 src="https://streak-stats.demolab.com?user=TahlonBrahic&theme=dark" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahlonBrahic&hide=jupyter%20notebook&theme=gruvbox&langs_count=8" />
-  </a>
 </div>
+
+<!-- div for separation -->
+<div style="margin: 20px;"></div>
+
+<!-- GIF -->
+<div align="center">
+  <iframe src="https://giphy.com/embed/bi6RQ5x3tqoSI" width="480" height="349" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+  <p><a href="https://giphy.com/gifs/computer-cowboy-bebop-bi6RQ5x3tqoSI">via GIPHY</a></p>
+</div>
+
 
 ---
 
