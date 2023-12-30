@@ -42,6 +42,8 @@
 <!-- div for separation -->
 <div style="margin: 20px;"></div>
 
+---
+
 <!-- GIF -->
 <div align="center">
    <p align="center">
