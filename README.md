@@ -35,7 +35,7 @@
 
 <div align="center">
   <a>
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahlonBrahic&hide=jupyter%20notebook&theme=gruvbox&langs_count=8" />
+    <img height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahlonBrahic&hide=jupyter%20notebook&theme=gruvbox&langs_count=8" />  
   </a>
 </div>
 
