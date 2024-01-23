@@ -23,10 +23,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=TahlonBrahic&show_icons=true&theme=gruvbox" />
+    <img height=200 width="600" src="https://github-readme-stats.vercel.app/api?username=TahlonBrahic&show_icons=true&theme=gruvbox" />
   </a>
   <a>
-    <img height=200 src="https://streak-stats.demolab.com?user=TahlonBrahic&theme=dark" />
+    <img height=200 width="600" src="https://streak-stats.demolab.com?user=TahlonBrahic&theme=dark" />
   </a>
 </div>
 
