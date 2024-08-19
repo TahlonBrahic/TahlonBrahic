@@ -52,6 +52,3 @@
 </div>
 
 ---
-
-### 📫 How to reach me: 
-You can visit [my website](https://tahlonbrahic.com/) to see some of my work in a more user friendly format or email me directly at tahlonbrahic@gmail.com 
