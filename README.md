@@ -1,6 +1,6 @@
 # 🎹 Tahlon Brahic
 
-`Data Scientist / Developer / Musician`
+`System Administrator`
 
 ### 🧰 Languages and Tools
 
