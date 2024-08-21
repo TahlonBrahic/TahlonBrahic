@@ -1,6 +1,6 @@
 # 🎹 Tahlon Brahic
 
-`System Administrator`
+`Systems Administrator`
 
 ### 🧰 Languages and Tools
 
