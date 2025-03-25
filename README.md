@@ -1,6 +1,6 @@
 # 🎹 Tahlon Brahic
 
-`Systems Administrator`
+`i go way too deep into obscure languages`
 
 ### 🧰 Languages and Tools
 
